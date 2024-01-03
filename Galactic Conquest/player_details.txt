@@ -1,0 +1,7 @@
+HighScore1-00:00:00
+HighScore2-00:00:00
+HighScore3-00:00:00
+HighScore4-00:00:00
+HighScore5-00:00:00
+TotalStars-0
+OwnedSkins-0
